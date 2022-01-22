@@ -32,4 +32,5 @@ If you have any problems with the cards or software please submit an issue here 
 While no add-ons are necessary to simply use the cards, if you want to create your own cards in this style 2 add-ons are necessary both from https://github.com/glutanimate
 
 Cloze Overlapper
+
 Image Occlusion
