@@ -7,7 +7,7 @@ Hello, I've created this deck of flashcards for use in our class.  I'm slowly up
 In order to use the deck you will need the Anki program (it is free and open source): https://apps.ankiweb.net
 
 
-After installing Anki you can download the .apk file from this repository and click "Import File" which can be found at the bottom of the Anki window.
+After installing Anki you can download the .apkg file from this repository and click "Import File" which can be found at the bottom of the Anki window.
 
 # **Using the Deck**
 Once you have imported deck you can simply click on it and press 'Study Now.'  
