@@ -17,6 +17,11 @@ Currently I have the cards divided by chapter (I've been going back and forth be
 # **About Anki**
 Anki uses Spaced repetition is an evidence-based learning technique that is usually performed with flashcards. Newly introduced and more difficult flashcards are shown more frequently, while older and less difficult flashcards are shown less frequently in order to exploit the psychological spacing effect.
 
+Anki is highly customizeable and a bit byzantine until you get used to it.  I highly encourage these resources.
+
+Anki Settings: https://www.youtube.com/watch?v=Eo1HbXEiJxo
+
+Effective Knowledge: Twenty Rules for Formulating Knowledge: https://www.supermemo.com/en/archives1990-2015/articles/20rules
 
 You can read more about it here: https://en.wikipedia.org/wiki/Spaced_repetition
 
