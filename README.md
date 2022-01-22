@@ -19,3 +19,12 @@ Anki uses Spaced repetition is an evidence-based learning technique that is usua
 
 
 You can read more about it here: https://en.wikipedia.org/wiki/Spaced_repetition
+
+# **Problems or Questions**
+If you have any problems with the cards or software please submit an issue here or message me on the class discussion board.  Since economics is more concept based than rote memorization based, it has been occasionally difficult to capture everything in cards.  I believe they are improving as I am progressing and getting more used to creating the cards.  If you have a better idea for cards, particularly in the early chapters please reach out and I will fix them.  There is admittedly too many T/F cards without context.
+
+# **Add-ons**
+While no add-ons are necessary to simply use the cards, if you want to create your own cards in this style 2 add-ons are necessary both from https://github.com/glutanimate
+
+Cloze Overlapper
+Image Occlusion
