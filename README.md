@@ -15,7 +15,7 @@ Once you have imported deck you can simply click on it and press 'Study Now.'
 Currently I have the cards divided by chapter (I've been going back and forth between both books), if you want to study an individual chapter you can select 'Custom Study' and select 'Study by State or Tag.'  I may consider breaking them up by module in future updates if I find that's easier to follow.
 
 # **About Anki**
-Anki uses Spaced repetition is an evidence-based learning technique that is usually performed with flashcards. Newly introduced and more difficult flashcards are shown more frequently, while older and less difficult flashcards are shown less frequently in order to exploit the psychological spacing effect.
+Anki uses Spaced repetition.  It is an evidence-based learning technique that is usually performed with flashcards. Newly introduced and more difficult flashcards are shown more frequently, while older and less difficult flashcards are shown less frequently in order to exploit the psychological spacing effect.
 
 Anki is highly customizeable and a bit byzantine until you get used to it.  I highly encourage these resources.
 
